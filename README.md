@@ -7,34 +7,34 @@
 
 ## 🚀 About Me
 
-Soy Daniel, un **Frontend Developer Junior** con un camino atípico y enriquecedor: fui **psicólogo**, **portero de fútbol** y **azafato de vuelo**, hasta que descubrí una nueva vocación que me apasiona: el **desarrollo web**.
+I'm Daniel, a **Junior Frontend Developer** with an enriching and unconventional journey: I used to be a **psychologist**, a **football goalkeeper**, and a **flight attendant**, until I discovered a new passion: **web development**.
 
-Desde entonces, me he sumergido de lleno en este mundo tecnológico donde la lógica y la creatividad se dan la mano. Aunque el código puede parecer frío, yo intento aportar siempre mi lado más humano: valores, empatía, trabajo en equipo y muchas ganas de seguir aprendiendo.
+Since then, I’ve immersed myself in this exciting world where logic meets creativity. Although code might seem cold, I always bring my human side to the table: values, empathy, teamwork, and a true hunger for learning.
 
-Actualmente soy **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y he trabajado en **dos empresas** como desarrollador, donde he aprendido a desenvolverme en entornos reales y a colaborar en equipo de manera profesional.
-
----
-
-## 💡 Valores que me definen
-
-- 🤝 Trabajo en equipo (me encanta colaborar y aprender de los demás)
-- 🎯 Responsabilidad y compromiso
-- 💬 Comunicación clara y honesta
-- 💥 Creatividad e ideas nuevas
-- 💪 Constancia y dedicación
-- 🚀 Ganas infinitas de seguir formándome y mejorando cada día
-
-Además, soy **deportista**, disfruto de la **naturaleza**, me apasionan los **videojuegos** y me siento cómodo en el mundo digital, tanto trabajando como disfrutando.
+I’m currently a **Senior Web Application Development Technician**, and I’ve worked at **two companies** where I collaborated in real development teams and grew as a professional.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 💡 My Core Values
 
-### 🧑‍💻 Lenguajes de Programación
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+- 🤝 Teamwork & collaboration
+- 🎯 Responsibility & commitment
+- 💬 Clear and honest communication
+- 💥 Creativity and innovation
+- 💪 Dedication and perseverance
+- 🚀 A constant desire to learn and improve
+
+Also, I’m a **sports enthusiast**, I enjoy **nature**, love **video games**, and feel right at home in the digital world—both for work and for fun.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Programming Languages
 - ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### 🖼️ Frontend
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
@@ -46,117 +46,102 @@ Además, soy **deportista**, disfruto de la **naturaleza**, me apasionan los **v
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### ⚙️ Backend (conocimientos básicos)
+### ⚙️ Backend (basic knowledge)
 - Java 21 + Spring Boot (hexagonal architecture, REST APIs)
 - MySQL
-- Seguridad con JWT y OAuth2
+- Security with JWT and OAuth2
 - Maven, JUnit, Mockito
 
-### 🧰 Herramientas
+### 🧰 Tools
 - Git & GitHub / Bitbucket
 - Jira
 - Visual Studio Code, IntelliJ IDEA, Eclipse
-- Docker (nociones), Figma (para diseño)
+- Docker (basic), Figma (for UI/UX design)
 
 ---
 
-## 📦 Proyecto Destacado
+## 📦 Highlight Project
 
-### 🛍️ [SELHA - E-commerce Minimalista y Sostenible](https://bitbucket.org/finalproyect/tienda-frontend)
+### 🛍️ [SELHA – Minimalist and Sustainable E-commerce](https://bitbucket.org/finalproyect/tienda-frontend)
 
 **Frontend**: Angular 19 + Tailwind CSS + DaisyUI  
-**Backend**: Java 21 + Spring Boot 3.4.4 (arquitectura hexagonal)  
-**Base de datos**: MySQL  
-**Login**: Clásico y con Google (OAuth2)  
-**Roles**: Admin y Usuario
+**Backend**: Java 21 + Spring Boot 3.4.4 (hexagonal architecture)  
+**Database**: MySQL  
+**Authentication**: Email/password and Google OAuth2  
+**Roles**: Admin and User
 
-📁 [Repositorio Backend](https://bitbucket.org/finalproyect/tienda-backend)
+📁 [Backend Repository](https://bitbucket.org/finalproyect/tienda-backend)
 
-#### Funcionalidades:
-- Vista pública: tienda, carrito, categorías (men, women, kids), contacto, checkout
-- Vista admin: gestión de productos, usuarios, pedidos, mensajes y newsletter
-- Animaciones, diseño responsive y componentes reutilizables
-- Filtros dinámicos, paginación, control de acceso por roles
-- Sistema de suscripciones y gestión de mensajes de contacto
+#### Key Features:
+- Public view: shop, cart, gender sections (Men, Women, Kids), contact, checkout
+- Admin view: manage products, users, orders, messages, newsletter
+- Responsive design with animations and reusable components
+- Dynamic filters, pagination, and role-based access control
+- Contact form and newsletter subscription system
 
-🧠 Lo mejor de este proyecto:
-> Aprendí a trabajar con una arquitectura limpia, implementar buenas prácticas, diseñar UI modernas y construir una app funcional de principio a fin. ¡Y todo ello en equipo!
-
----
-
-## 🧪 Otras experiencias
-
-### 👨‍💻 Prácticas en **Close Marketing** (2025)
-
-He participado como **soporte y ayudante** en múltiples proyectos reales de clientes, donde he adquirido nociones prácticas de:
-
-- WordPress (maquetación con GenerateBlocks, ajustes y mantenimiento)
-- Laravel (nivel básico)
-- Migración de webs y configuración de servidores
-- Gestión de DNS y configuración de correos
-- Resolución de incidencias técnicas y mantenimiento web
-
-Aunque WordPress no es el ámbito que más me motiva, esta etapa me ha permitido conocer el ecosistema web desde una perspectiva más operativa y cercana al cliente final, sumando versatilidad a mi perfil.
+🧠 What I learned:
+> I discovered how to work with clean architecture, apply best practices, build beautiful UIs, and develop a real-world app from scratch — as a team.
 
 ---
 
-### 🌐 Prácticas en **Bracelit** (2024)
+## 🧪 Other Experiences
 
-Durante esta experiencia me inicié en el uso del framework **Astro JavaScript** a nivel básico, participando en un pequeño proyecto de mejora para la web oficial de la empresa.
+### 👨‍💻 Internship at **Close Marketing** (2025)
 
-- Rediseñamos y remaquetamos la sección de **Contacto**, con enfoque en UI/UX
-- Trabajé especialmente en la **parte frontend** del formulario (estructura, estilos, validaciones)
-- También exploramos la **parte backend**, entendiendo el flujo de envío de datos del formulario y cómo se gestionaban las peticiones y respuestas
+I supported and collaborated in real-world client projects, gaining hands-on experience in:
 
-Fue una primera toma de contacto con un entorno real de desarrollo y colaboración en equipo, que me motivó a seguir avanzando en el desarrollo web.
+- WordPress (GenerateBlocks, site maintenance and styling)
+- Laravel (basic level)
+- Website migrations and server configurations
+- DNS and email setup
+- Troubleshooting and web support
+
+While WordPress isn't my long-term goal, this stage helped me understand real-world business environments and expand my versatility.
 
 ---
 
-## 🎓 Formación
+### 🌐 Internship at **Bracelit** (2024)
 
-- **Técnico Superior en Desarrollo de Aplicaciones Web**  
+My first hands-on experience with the **Astro JavaScript** framework. I worked on a mini-project to improve the **Contact** section of the company's official site.
+
+- We redesigned the contact section, focusing on UI and the form layout
+- I implemented most of the **frontend work**: structure, styling, and validations
+- I explored the **backend logic** behind the form’s data submission and handling
+
+This was my first taste of real web development teamwork and it boosted my passion for the frontend.
+
+---
+
+## 🎓 Education
+
+- **Senior Web Application Development Technician**  
   _IES Zaidín Vergeles (Granada), 2023–2025_  
-  Prácticas en:
-  - **Bracelit**: diseño y desarrollo frontend con Astro
-  - **Close Marketing**: soporte técnico en mantenimiento y desarrollo web
-  - Proyecto final completo en equipo: [SELHA](#selha---e-commerce-minimalista-y-sostenible)
+  Internships at:
+  - **Bracelit**: Frontend work with Astro
+  - **Close Marketing**: Technical support and web maintenance
+  - Capstone project: [SELHA](#selha--minimalist-and-sustainable-e-commerce)
 
-- **Certificación Cisco IT Essentials**
+- **Cisco IT Essentials Certification**
 
-- **Grado en Psicología**  
-  _Universidad de Granada_
+- **Bachelor’s Degree in Psychology**  
+  _University of Granada_
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- 📧 daniportero91@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-gonz%C3%A1lez-fern%C3%A1ndez-a5b7922ab)
+- 📧 daniportero91@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-gonz%C3%A1lez-fern%C3%A1ndez-a5b7922ab)  
 - 🧑 GitHub: [@ResetDeFabrica](https://github.com/ResetDeFabrica)
 
 ---
 
-## 📌 Disponibilidad
+## 📌 Availability
 
-Actualmente en búsqueda de oportunidades como **Frontend Developer Junior** en entornos donde pueda seguir creciendo profesionalmente y aportar todo lo que soy: técnica, pasión y valores.
+I'm currently open to opportunities as a **Junior Frontend Developer** where I can grow, contribute, and bring value with both my technical skills and human side.
 
 ---
 
-> "_El código no solo debe funcionar. Debe transmitir lo que somos, lo que creemos, y lo que podemos llegar a ser._"
+> "_Code shouldn't just work. It should reflect who we are, what we believe, and who we can become._"
 
-¡Gracias por llegar hasta aquí! 🚀✨
-
-<!--
-**ResetDeFabrica/ResetDeFabrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for reading! 🚀✨
