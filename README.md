@@ -130,7 +130,7 @@ This was my first taste of real web development teamwork and it boosted my passi
 
 ## 📫 Contact
 
-- 📧 daniportero91@gmail.com  
+- 📧 resetdefabrica18@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-gonz%C3%A1lez-fern%C3%A1ndez-a5b7922ab)  
 - 🧑 GitHub: [@ResetDeFabrica](https://github.com/ResetDeFabrica)
 
